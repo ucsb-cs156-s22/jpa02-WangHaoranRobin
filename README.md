@@ -1,6 +1,6 @@
 # jpa02-WangHaoranRobin
 
-Repo: https://ucsb-cs156-s22/jpa02-WangHaoranRobin
+Repo: https://github.com/ucsb-cs156-s22/jpa02-WangHaoranRobin
 
 On Heroku: https://jpa02-haoranwang.herokuapp.com
 
